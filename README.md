@@ -4,7 +4,7 @@ This project focuses on interaction, motion design, and adaptive UI, not just vi
 
 ---
 
-✨ Features
+# ✨ Features
 - 🎞 Smooth scale-based animations for menu items
 - 📱 Fully responsive design (mobile, tablet, desktop)
 - ⚡ Lightweight and fast — no heavy frameworks
@@ -13,7 +13,7 @@ This project focuses on interaction, motion design, and adaptive UI, not just vi
 
 ---
 
-🛠️ Built With
+# 🛠️ Built With
 
 -[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=github)](https://your-username.github.io/animated-menu/)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,14 +27,14 @@ This project focuses on interaction, motion design, and adaptive UI, not just vi
 
 ---
 
-🖥️ Live Preview
+# 🖥️ Live Preview
 
 <img width="1203" height="458" alt="image" src="https://github.com/user-attachments/assets/36f8014d-2a11-4bcf-add7-a751d59c485b" />
 <img width="1039" height="396" alt="image" src="https://github.com/user-attachments/assets/378120f2-91d9-4ec5-9e50-4a8bd9b09f8e" />
 
 ---
 
-🧠 Why This Project Matters
+# 🧠 Why This Project Matters
 This repository isn’t just a menu.
 - It demonstrates:
 - Understanding of responsive UI principles
@@ -48,7 +48,7 @@ Perfect as:
 
 ---
 
-🗺️ Roadmap (Next Improvements)
+# 🗺️ Roadmap (Next Improvements)
 - Add dark/light mode toggle
 - Include reduced-motion support
 - Convert to reusable component
@@ -56,13 +56,13 @@ Perfect as:
 
 ---
 
-🤝 Contributing
+# 🤝 Contributing
 
 Contributions, suggestions, and improvements are welcome.
 Fork the repo, make your changes, and open a pull request.
 
 ---
 
-📜 License
+# 📜 License
 
 This project is licensed under the MIT License — free to use, modify, and distribute.
