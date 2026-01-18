@@ -2,6 +2,14 @@
 A modern animated navigation menu built to demonstrate smooth scaling animations and fully responsive behavior across devices.
 This project focuses on interaction, motion design, and adaptive UI, not just visuals.
 
+---
+
+✨ Features
+- 🎞 Smooth scale-based animations for menu items
+- 📱 Fully responsive design (mobile, tablet, desktop)
+- ⚡ Lightweight and fast — no heavy frameworks
+- 🎯 Clean UI with focus on user experience
+- 🧩 Easy to integrate into any web project
 
 ---
 
