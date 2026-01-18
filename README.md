@@ -66,3 +66,22 @@ Fork the repo, make your changes, and open a pull request.
 # 📜 License
 
 This project is licensed under the MIT License — free to use, modify, and distribute.
+
+---
+
+# 👀 How to View the Project
+
+1. Clone the repository:
+ git clone https://github.com/Blackie001/Animated-Navigation-bar
+
+
+2. Navigate into the project folder:
+ cd animated-menu
+
+
+3. Open index.html in your browser:
+ Double-click the file
+OR
+Right-click → Open with → Browser
+
+ The animated menu will load immediately with full responsiveness and scaling effects.
