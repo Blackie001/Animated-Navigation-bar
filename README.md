@@ -72,7 +72,7 @@ This project is licensed under the MIT License — free to use, modify, and dist
 # 👀 How to View the Project
 
 1. Clone the repository:
- git clone https://github.com/Blackie001/Animated-Navigation-bar
+ git clone https://blackie001.github.io/Animated-Navigation-bar/
 
 
 2. Navigate into the project folder:
